@@ -1,2 +1,1 @@
 require("yurre")
-print("hello")
